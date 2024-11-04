@@ -37,7 +37,6 @@ class MainActivity : ComponentActivity() {
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
                     )
-
                      */
                     Birth(m = Modifier.padding(innerPadding))
                 }
